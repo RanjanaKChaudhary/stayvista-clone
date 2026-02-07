@@ -7,7 +7,7 @@ The project focuses on UI layout, navigation, cards, and basic routing similar t
 
 ## 🚀 Features
 
-- Responsive Navbar
+- Navbar
 - Destination cards
 - Property listing UI
 - Routing using React Router
