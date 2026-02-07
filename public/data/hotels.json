@@ -1,0 +1,27 @@
+{
+  "Alibaug": [
+    { "name": "Radisson Blu Alibaug", "rating": 4.5, "price": 7000 },
+    { "name": "U Tropicana Resort", "rating": 4.3, "price": 6500 }
+  ],
+  "Lonavala": [
+    { "name": "Fariyas Resort", "rating": 4.6, "price": 8000 }
+  ],
+  "Igatpuri": [
+    { "name": "Mystic Valley Resort", "rating": 4.2, "price": 5500 }
+  ],
+  "Nashik": [
+    { "name": "The Gateway Hotel", "rating": 4.4, "price": 6000 }
+  ],
+  "Panchgani": [
+    { "name": "Ravine Hotel", "rating": 4.1, "price": 5000 }
+  ],
+  "Udaipur": [
+    { "name": "Taj Lake Palace", "rating": 5, "price": 25000 }
+  ],
+  "Wayanad": [
+    { "name": "Vythiri Resort", "rating": 4.6, "price": 9000 }
+  ],
+  "Manesar": [
+    { "name": "Heritage Village Resort", "rating": 4.3, "price": 7500 }
+  ]
+}

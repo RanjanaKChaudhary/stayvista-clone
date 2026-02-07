@@ -1,0 +1,65 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+}
+
+.offer-text {
+  background: linear-gradient(to right, #929dd2, #a85858);
+  color: white;
+  padding: 10px;
+}
+
+.navbar {
+  position: relative;
+  height: 100vh;
+  background-image: url("media/images/main_img.jpg");
+  background-size: cover;
+  background-position: center;
+  
+
+
+}
+
+
+/* Logo */
+.logo-img {
+  width: 120px;
+  height: auto;
+}
+
+
+/* Nav links */
+.nav-link {
+  color: white;
+  font-size:22px;
+  font-style: bolder;
+  text-decoration: none;
+}
+.nav-link:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.myTextField label.Mui-focused,
+.myTextField label {
+  font-weight: bold;
+  color: black;
+  font-size: large;
+}
+
+
+
+h4, img {
+  max-width: 150px;  
+  max-height:150px; 
+  padding: 5px;
+}
+
+
+
+
