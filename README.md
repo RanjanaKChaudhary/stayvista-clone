@@ -1,7 +1,7 @@
 # StayVista Clone 
 
 This is a **StayVista website clone** built using **React.js**, **Bootstrap**, and **React Router**.  
-The project focuses on UI layout, navigation, cards, and basic routing similar to the StayVista platform.
+The project focuses on UI layout, navigation, cards,json data fetching and basic routing similar to the StayVista platform.
 
 ---
 
@@ -12,6 +12,7 @@ The project focuses on UI layout, navigation, cards, and basic routing similar t
 - Property listing UI
 - Routing using React Router
 - Bootstrap styling
+- react hooks 
 - Simple and clean UI
 
 ---
