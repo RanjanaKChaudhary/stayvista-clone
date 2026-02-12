@@ -26,11 +26,33 @@ The project focuses on UI layout, navigation, cards,json data fetching and basic
 
 ---
 
-## Installation & Setup
-
 Follow these steps to run the project on your local system.
 
-### 1️ Clone the repository
+### 1️⃣ Clone the repository
 
-```bash
+
 git clone https://github.com/RanjanaKChaudhary/stayvista-clone.git
+
+
+### 2️⃣ Navigate to project folder
+
+
+cd stayvista-clone
+
+
+### 3️⃣ Install dependencies
+
+
+npm install
+
+
+### 4️⃣ Run the project
+
+
+npm run dev
+
+
+The app will run at:
+
+http://localhost:5173/
+
